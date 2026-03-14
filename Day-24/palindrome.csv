@@ -1,0 +1,6 @@
+input,output
+121,palindrome
+123,not palindrome
+1331,palindrome
+131,palindrome
+729,not palindrome
