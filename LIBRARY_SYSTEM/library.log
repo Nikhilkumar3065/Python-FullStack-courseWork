@@ -1,0 +1,9 @@
+2026-03-12 10:41:58,888 - INFO - Book added: python
+2026-03-12 10:42:21,846 - INFO - Book added: dsa
+2026-03-12 10:42:39,046 - INFO - Book issued: dsa
+2026-03-12 10:42:51,222 - INFO - Book returned: dsa
+2026-03-12 10:43:06,477 - INFO - Book removed: 2
+2026-03-16 19:45:43,455 - INFO - Book added: wwe
+2026-03-16 19:45:58,143 - INFO - Book added: wwf
+2026-03-16 19:46:11,771 - INFO - Book removed: 12
+2026-03-16 19:46:18,151 - INFO - Book removed: 13
